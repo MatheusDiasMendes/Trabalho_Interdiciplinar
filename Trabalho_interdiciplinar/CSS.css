@@ -1,0 +1,50 @@
+div {
+    text-align: 50px;
+    }
+
+fieldset {
+  
+    align:center;
+    align-items: center;
+    background-color:#84D7D9;
+    width: 100%;
+    box-shadow:10px 15px 20px;
+    background: linear-gradient(#84D7D9 0% , #017DF5 100%);
+}
+
+body {
+ background-color:#017DF5;
+}
+
+*{ 
+    padding: 5px;
+    margin: 2px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+button {
+ background-color: #55088F;
+ font-family: Arial, Helvetica, sans-serif ;  
+ border-radius:40px ; 
+ border:1.5px solid #55088F;; 
+ margin: 2%;
+ font-size: 12pt;
+
+}
+
+input {
+    align-content: center;
+    border-radius:30px ; 
+    border:1.5px solid;
+    margin: 2%;
+    font-size: 12pt;
+}
+
+::placeholder {
+  align-items:center ;
+}
+
+h3{
+    align-items: center;
+}
